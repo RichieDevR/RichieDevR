@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h1 align="center"><img src="https://user-images.githubusercontent.com/78895761/148658759-ab18d44b-014d-4cd5-82ec-6ff7f6aff30d.gif" alt="my banner"/></h1>
 <!--
 **RichieDevR/RichieDevR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
