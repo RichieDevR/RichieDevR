@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Rust-informational?style=for-the-badge&logo=rust&color=black&logoColor=CC342D) ![](https://img.shields.io/badge/Go-informational?style=for-the-badge&logo=go&logoColor=00ADD8&color=black) ![](https://img.shields.io/badge/angular-informational?style=for-the-badge&logo=angularjs&logoColor=E23237&color=black) ![](https://img.shields.io/badge/java-informational?style=for-the-badge&logo=java&logoColor=2AA5DC&color=black) ![](https://img.shields.io/badge/jira-informational?style=for-the-badge&logo=jira&logoColor=0052CC&color=black) ![](https://img.shields.io/badge/apache_cassandra-informational?style=for-the-badge&logo=apachecassandra&logoColor=1287B1&color=black)  ![](https://img.shields.io/badge/apache_cloudstack-informational?style=for-the-badge&logo=apachecloudstack&logoColor=2AA5DC&color=black) ![](https://img.shields.io/badge/flutter-informational?style=for-the-badge&logo=flutter&logoColor=02569B&color=black) ![](https://img.shields.io/badge/solidity-informational?style=for-the-badge&logo=solidity&logoColor=363636&color=black) ![](https://img.shields.io/badge/web3.js-informational?style=for-the-badge&logo=web3.js&logoColor=F16822&color=black)
 
+# Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=richiedevr&theme=discord&column=2&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+# Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richiedevr&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richiedevr&show_icons=true&theme=midnight-purple)
